@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;src&apos; to &apos;KiemTra&apos;&#x0D;&#x0A;- Original project: &apos;g2&apos;&#x0D;&#x0A;- Original element: &apos;g2/src/src&apos;&#x0D;&#x0A;- Renamed element: &apos;g2/src/KiemTra&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;src&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;src" name="KiemTra" qualified="false" references="true" stamp="1680059344973" textual="false" version="1.0"/>
+</session>
